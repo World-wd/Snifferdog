@@ -1,0 +1,86 @@
+{
+ "address": "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc",
+ "address_index": 22163197,
+ "clone_root": "",
+ "cloneable": true,
+ "cloned_from": "1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba",
+ "description": "Caffeinated Search & Index",
+ "files": {
+  "autotag.py": {
+   "sha512": "7a4f87fd51e45031548bc6b060519ab8f93eb88e4df78be473a9edebde5dfcd9",
+   "size": 11574
+  },
+  "check.py": {
+   "sha512": "db7d66aff3c6b9a3fa6fde7b8561228b3433f6a96df6537358f0edbc16008f2e",
+   "size": 838
+  },
+  "css/all.css": {
+   "sha512": "7e454b18d62a49dabe679cbc6b2ad436d966c60811df83617676e55e38a86e00",
+   "size": 42737
+  },
+  "data.txt": {
+   "sha512": "dd99a79aae8076487a7f9896353b0192b54ad68620e8c00f07588470c3b57597",
+   "size": 106625
+  },
+  "grab.py": {
+   "sha512": "7b6ff5a800bea2fbbddeb0dc0a6b2fc935b245231d41400d494ba45148ebfb8b",
+   "size": 1608
+  },
+  "index.html": {
+   "sha512": "5b011f57031427d71924853fb1c42e2374b35327bd6e8171b22ec1fd2c6f682f",
+   "size": 11915
+  },
+  "install.html": {
+   "sha512": "f83ea73cb29dfc9128d65f4e418ef6c9f338110c7fb100ee52f8a789f1442238",
+   "size": 1359
+  },
+  "jquery-3.1.0.min.js": {
+   "sha512": "ab3ad9a98fe431508461ebbf8029bc536f34d16cfef8b4c62b8a62b56fe2b30a",
+   "size": 86351
+  },
+  "merge.py": {
+   "sha512": "822ed76b259a13070ff09417c09f2c01046831ff1db2489da3dce38092ade837",
+   "size": 1295
+  },
+  "mergeold.py": {
+   "sha512": "fbf763286f633f8892c83752cfaf19fa022832da59afcc5a4fbb666bed09041c",
+   "size": 906
+  },
+  "newsites.txt": {
+   "sha512": "c4ecd8f51974542471f550fa89a8617004ca059520dd2d525db140375c9b1998",
+   "size": 57076
+  },
+  "newsitesdb.py": {
+   "sha512": "667c90bf56e6b3aeb9fd0a004a0f19087d588ff4534a5e802d1cfcae6fa3c2f5",
+   "size": 1550
+  },
+  "opensearch.xml": {
+   "sha512": "2e0069e762a84916c51ca90749aadd1762f7c98048fda9300e13d6e4476f1cea",
+   "size": 439
+  },
+  "python.html": {
+   "sha512": "386db035ffcdd5d437e2c4b3f457d74f74b689965bcd0285c924a9483879ede4",
+   "size": 3764
+  },
+  "zeromehubs.txt": {
+   "sha512": "e7d8de15f01fb7d504083f8d11308c8c981a364ebb4d1dd62eb782a8b67ab27b",
+   "size": 620
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
+ "includes": {},
+ "inner_path": "content.json",
+ "modified": 1491692836,
+ "postmessage_nonce_security": true,
+ "sign": [
+  14489754094222048895916461555241262978263582916878237134050003512957160367960,
+  113161689605803757126542278670012325894220056380754299833401840203111241841484
+ ],
+ "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
+ "signs": {
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G1JSk60SJ623s+msa/oFdQXK0PSh0yl93gYEMrMG46pifJs0tIv4kNmv5NFP8JJ1yQyJJW2JbQhmpGSCrGhcS5g="
+ },
+ "signs_required": 1,
+ "title": "Snifferdog - This dog can find all!",
+ "zeronet_version": "0.5.3"
+}
