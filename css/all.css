@@ -39,7 +39,7 @@ text-decoration: none;
 #resultsfound
 {
   font-size: 100%;
-  color: #777777;
+  color: rgba(255, 255, 255, 0.5);
   padding: 10px;
 }
 c{font-size: 45%;}
@@ -70,7 +70,7 @@ background:url(../img/logos/headerlogo.png);background-size:200px;width:200px;he
 /*Style tags*/
 .tags {
   font-size: 70%; 
-  padding-bottom: 1%;
+  padding-bottom: 1%; color: #000
 }
 .tag:hover {
   color: #ff00ff;
@@ -223,7 +223,7 @@ button:hover {
   border: 1px solid #EEF0F1; border-bottom: 2px solid #ECEDEE; margin-bottom: 8px;
 }
 body {
-  background-color: #49311c; font-family: Roboto, Helvetica, Arial; margin: 0px; padding: 0px;
+  background-color: #49311c; color: #fff; font-family: Roboto, Helvetica, Arial; margin: 0px; padding: 0px;
   -webkit-backface-visibility: hidden; -moz-backface-visibility: hidden; -o-backface-visibility: hidden; -ms-backface-visibility: hidden; backface-visibility: hidden ; height: 100%; position: absolute; width: 100%; overflow-x: hidden;
 }
 body.loaded { height: 100%; overflow: auto }
