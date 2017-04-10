@@ -63,7 +63,7 @@ c{font-size: 45%;}
 /*Rainbow Colors for logo and proxies*/
 .logo
 {
-  font-size: 30px;
+background:url(../img/logos/headerlogo.png);background-size:200px;width:200px;height:84px;display:block;text-indent:9000
 }
 
 
@@ -187,7 +187,7 @@ button:hover {
 {
   height: 100%;
 }
-.hcmod{  height: 33px; position:relative; }
+.hcmod{  height: 84px; position:relative; }
 
 .randbuttontopmod
 {
