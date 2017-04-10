@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-<meta name="keywords" content="search, kaffie, kaffiene, find, zeronet, search engine, engine, zero, zerosearch">
+<meta name="keywords" content="search, plasmmer, snifferdog, find, zeronet, search engine, engine, zero, zerosearch">
 <meta charset="utf-8">
 <!--<script type="text/javascript" src="js/all.js" async></script>-->
 <style>h1, h2, h3, h4 { font-weight: normal; font-size: 100px; margin: 0px; padding: 0px }</style>
@@ -21,7 +21,7 @@ var onlyzeroproxy = 'https://onlyzero.net/'
 var siteindex = 'data.txt'
 var url = '/'
 
-if(window.location.hostname == "search.kaffie.bit" || window.location.hostname == "kaffiene.bit"
+if(window.location.hostname == "search.kaffie.bit" || window.location.hostname == "snifferdog.bit"
  || window.location.hostname == "zerosearch.bit" || window.location.hostname == "0search.bit")
   url = "http://zero/"
 
@@ -70,7 +70,7 @@ function selectSearch(selected, u = "") {
         loadurl = u;
       sname = loadurl;
     }
-    if (sname == "Kaffiene")
+    if (sname == "Snifferdog")
     {
       datau = datab;
       $('#curindex').html(datau.length + " <a href=\"data.txt\" target='_top'>sites</a> and growing..");
@@ -92,7 +92,7 @@ function selectSearch(selected, u = "") {
           //rt = rt.replace(/:/g, "[:")
           rt = rt.replace(/ /g, "")
         }
-        if(sname == "Kaffiene - Full")
+        if(sname == "Snifferdog - Full")
         {
           datau = datab;
           datau = datau.concat(rt.split("\n"));
@@ -332,15 +332,13 @@ function randomsearch()
       <option value="newsites.txt">Snifferdog - Untagged</option>
       <option value="newsites.txt">Snifferdog - Full</option>
       <!--script>document.write('<option value="'+url+'1ZeroeuDnL2jNS6t1epQa1SPvC91KG8ER/data.dat">ZeroSearch</option>')</script-->
-      <script>document.write('<option value="'+url+'1f7fyxzwsz5yg7nd8sgshcweqgvdnvvqf/data.json">Bwoi</option>')</script>
-      <script>document.write('<option value="'+url+'1LC3ryygCrv94ZK4Nk8ELW6vE1hKwopE8T/data.txt">CensoredSearch</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1f7fyxzwsz5yg7nd8sgshcweqgvdnvvqf/data.json">Bwoi</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1LC3ryygCrv94ZK4Nk8ELW6vE1hKwopE8T/data.txt">CensoredSearch</option>')</script>
       <script>document.write('<option value="'+url+'1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F/data/names.json">ZeroName</option>')</script>
-      <script>document.write('<option value="'+url+'1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo/data.txt">Kidsearch</option>')</script>
-      <script>document.write('<option value="'+url+'1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo/newsites.txt">Kidsearch - Untagged</option>')</script>
-      <script>document.write('<option value="'+url+'1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo/newsites.txt">Kidsearch - Full</option>')</script>
-      <script>document.write('<option value="'+url+'1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/data.txt">Kaffiene</option>')</script>
-      <script>document.write('<option value="'+url+'1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/newsites.txt">Kaffiene - Untagged</option>')</script>
-      <script>document.write('<option value="'+url+'1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/newsites.txt">Kaffiene - Full</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo/data.txt">Kidsearch</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/data.txt">Kaffiene</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/newsites.txt">Kaffiene - Untagged</option>')</script>
+      <script>document.write('<option value="http://127.0.0.1:43110/1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba/newsites.txt">Kaffiene - Full</option>')</script>
       <option value="zeromehubs.txt">ZeroMe Hubs</option>
       <option value="externalsource">Custom/Other</option>
     </select>
