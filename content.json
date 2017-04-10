@@ -6,6 +6,7 @@
  "cloned_from": "1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba",
  "description": "Open-source search engine based in Kaffiene.",
  "domain": "snifferdog.bit",
+ "favicon": "favicon.ico",
  "files": {
   "autotag.py": {
    "sha512": "7a4f87fd51e45031548bc6b060519ab8f93eb88e4df78be473a9edebde5dfcd9",
