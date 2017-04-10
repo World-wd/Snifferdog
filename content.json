@@ -17,16 +17,20 @@
    "size": 838
   },
   "css/all.css": {
-   "sha512": "0e2f0ca687cd0ffbf198c6988b8d3e88a2bf43143ce50d49087ac1917b1daf8d",
-   "size": 42835
+   "sha512": "4faa7364576c89ad2b4bd8592267dee972a7daceb35814e218deda2e063a034e",
+   "size": 43193
   },
   "data.txt": {
-   "sha512": "dd99a79aae8076487a7f9896353b0192b54ad68620e8c00f07588470c3b57597",
-   "size": 106625
+   "sha512": "72d3c80f4edf7a536c2da5ea16303df71ae70cc0f0a2f2adf37bb7a5420a7d17",
+   "size": 107811
+  },
+  "favicon.ico": {
+   "sha512": "5c94787cb307515ba48ca317167fa7ebe9064eed109447a476ec8fb5d2022244",
+   "size": 1150
   },
   "grab.py": {
-   "sha512": "7b6ff5a800bea2fbbddeb0dc0a6b2fc935b245231d41400d494ba45148ebfb8b",
-   "size": 1608
+   "sha512": "c94efbe1cab1abc0f3742aa5a7b5156b5f4e2121930ed8435713a44a5bbec2d3",
+   "size": 1679
   },
   "img/logos/birthday.png": {
    "sha512": "b8c8ee9423607ba004fb979a84f6c19e3f7f9a39aca169cba50792e89bb4846a",
@@ -36,13 +40,17 @@
    "sha512": "7121886a37922420737936374763dfea5c7378c7706fffd7ddb63a6263a58ec9",
    "size": 307360
   },
+  "img/logos/headerlogo.png": {
+   "sha512": "690bc9d3148f55eef31a02f605fcebb87e8bf4ffa6e0f788f737cdcb4f26630c",
+   "size": 78969
+  },
   "index.html": {
-   "sha512": "1432e2c6294f5fcb2b3433164f6a020d4209aee80733e9e482d9dd3da26e9d73",
-   "size": 11924
+   "sha512": "73f616e089fdf9a1c81c895bd3d8f944dd1919c71c50be504580d5ea9d7b6dc4",
+   "size": 12319
   },
   "install.html": {
-   "sha512": "f83ea73cb29dfc9128d65f4e418ef6c9f338110c7fb100ee52f8a789f1442238",
-   "size": 1359
+   "sha512": "2768577c7e3aa63142034c8b469a75ecb8f492dcab367738b8b4a2eeb04a78c6",
+   "size": 1356
   },
   "jquery-3.1.0.min.js": {
    "sha512": "ab3ad9a98fe431508461ebbf8029bc536f34d16cfef8b4c62b8a62b56fe2b30a",
@@ -57,8 +65,8 @@
    "size": 906
   },
   "newsites.txt": {
-   "sha512": "c4ecd8f51974542471f550fa89a8617004ca059520dd2d525db140375c9b1998",
-   "size": 57076
+   "sha512": "a6db29133a8ba4348f1bd58bed8cd6edf7ffaba1c87010b7431fac575fab77e3",
+   "size": 57106
   },
   "newsitesdb.py": {
    "sha512": "667c90bf56e6b3aeb9fd0a004a0f19087d588ff4534a5e802d1cfcae6fa3c2f5",
@@ -69,8 +77,16 @@
    "size": 439
   },
   "python.html": {
-   "sha512": "386db035ffcdd5d437e2c4b3f457d74f74b689965bcd0285c924a9483879ede4",
-   "size": 3764
+   "sha512": "cda58ee466b923c0cb109259f849ed07a61b72c805f9596178ffea669468fb26",
+   "size": 3765
+  },
+  "settings.html": {
+   "sha512": "d2bc829ae93e833b6bee417c3e7a7d24c414c6d924985c0ade0ccfaaf1ecff27",
+   "size": 530
+  },
+  "terms.html": {
+   "sha512": "2b0da2e4d11f4dae3e5ca0da7dc854ec410e9028b93c0b3b7787dd26cf1e95f0",
+   "size": 827
   },
   "zeromehubs.txt": {
    "sha512": "e7d8de15f01fb7d504083f8d11308c8c981a364ebb4d1dd62eb782a8b67ab27b",
@@ -80,15 +96,15 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491782857,
+ "modified": 1491821210,
  "postmessage_nonce_security": true,
  "sign": [
-  94695649910921200185261524636103734143712376742155067156825548476754437695837,
-  110836863087662483592426242085951590968430756989031824814292464781480066799966
+  10190620913620231055750829891776289525652254591202223199816699431526293026219,
+  15407521043581453650447714610267395648854680213363140592461315023185413534672
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "HNqFl1OBVZGerPDEupF20UfawxSeUoKmN9gFNjSANQAaYTppjIauNzSWbkVvN5d6BQiXh1mWZn3TN+BUKnTu1uI="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G9YUZjZh8APNb/arjUErQk9YfYQ5+NQdF43Y/LItYFyzVYQEjBYyP94fAvXp9yVUqXOlyCcR6Vy8uPa4Z8i7np8="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
