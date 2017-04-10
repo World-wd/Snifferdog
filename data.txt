@@ -1,4 +1,4 @@
-Old ZeroHello[old, zero, homepage, zeronet, hello, beginner, start, page:1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr 196
+﻿Old ZeroHello[old, zero, homepage, zeronet, hello, beginner, start, page:1EU1tbG9oC1A8jz2ouVwGZyQ5asrNsE4Vr 196
 ZeroBoard[chat, anonymous, board, talk, discussion:1Gfey7wVXXg1rxk751TBTxLJwhddDNfcdp 2155
 ZeroSearch[search, zero, zeronet, find, link, engine, discover:1ZeroeuDnL2jNS6t1epQa1SPvC91KG8ER 445
 ZeroBlog[changelog, development, zeronet, zero, blog, nofish, github, source:1BLogC9LN4oPDcruNz3qo1ysa133E9AGg8 1599
@@ -1183,3 +1183,4 @@ NinjaBeats[music, torrents, audio, listen:15F9LYs6c17NUXv3MxpJSGbpWxyHTEbzMk 185
 ZeroMe[social, networks, merger, merged, hubs, twitter, networking, talk, discussion:1MeFqFfFFGQfa1J3gJyYYUvb5Lksczq7nH 1003
 The Shadow Brokers[theshadowbrokers.bit, theshadowbrokers, exploits, hacks, bitcoin, shop, sales, market, purchase, warez, buy:18ZVKrU9u9HvuUjMmBWTu6cidUaUPZ63QX 104
 KopyKate.bit[video, youtube, watch, stream, webtorrent, torrents, tv, kopy, kate:1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN 198
+Retrogames.bit - ZeroNet[games, arcade, javascript, emulators, play, fun, entertainment, roms, nes, 1943, battletoads, contra, doubledragon, mario, excitebike, megaman, narc, ninjagaiden, punchout, snake, talespin, tetris:1RETRoPXWgnP5K5v7ggwBHTo7eyumPvq1 164
