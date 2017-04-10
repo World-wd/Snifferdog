@@ -4,7 +4,8 @@
  "clone_root": "",
  "cloneable": true,
  "cloned_from": "1Mr5rX9TauvaGReB4RjCaE6D37FJQaY5Ba",
- "description": "Caffeinated Search & Index",
+ "description": "Open-source search engine based in Kaffiene.",
+ "domain": "snifferdog.bit",
  "files": {
   "autotag.py": {
    "sha512": "7a4f87fd51e45031548bc6b060519ab8f93eb88e4df78be473a9edebde5dfcd9",
@@ -15,8 +16,8 @@
    "size": 838
   },
   "css/all.css": {
-   "sha512": "7e454b18d62a49dabe679cbc6b2ad436d966c60811df83617676e55e38a86e00",
-   "size": 42737
+   "sha512": "0e2f0ca687cd0ffbf198c6988b8d3e88a2bf43143ce50d49087ac1917b1daf8d",
+   "size": 42835
   },
   "data.txt": {
    "sha512": "dd99a79aae8076487a7f9896353b0192b54ad68620e8c00f07588470c3b57597",
@@ -26,9 +27,17 @@
    "sha512": "7b6ff5a800bea2fbbddeb0dc0a6b2fc935b245231d41400d494ba45148ebfb8b",
    "size": 1608
   },
+  "img/logos/birthday.png": {
+   "sha512": "b8c8ee9423607ba004fb979a84f6c19e3f7f9a39aca169cba50792e89bb4846a",
+   "size": 388114
+  },
+  "img/logos/default.png": {
+   "sha512": "7121886a37922420737936374763dfea5c7378c7706fffd7ddb63a6263a58ec9",
+   "size": 307360
+  },
   "index.html": {
-   "sha512": "5b011f57031427d71924853fb1c42e2374b35327bd6e8171b22ec1fd2c6f682f",
-   "size": 11915
+   "sha512": "1432e2c6294f5fcb2b3433164f6a020d4209aee80733e9e482d9dd3da26e9d73",
+   "size": 11924
   },
   "install.html": {
    "sha512": "f83ea73cb29dfc9128d65f4e418ef6c9f338110c7fb100ee52f8a789f1442238",
@@ -70,15 +79,15 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491692836,
+ "modified": 1491782857,
  "postmessage_nonce_security": true,
  "sign": [
-  14489754094222048895916461555241262978263582916878237134050003512957160367960,
-  113161689605803757126542278670012325894220056380754299833401840203111241841484
+  94695649910921200185261524636103734143712376742155067156825548476754437695837,
+  110836863087662483592426242085951590968430756989031824814292464781480066799966
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G1JSk60SJ623s+msa/oFdQXK0PSh0yl93gYEMrMG46pifJs0tIv4kNmv5NFP8JJ1yQyJJW2JbQhmpGSCrGhcS5g="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "HNqFl1OBVZGerPDEupF20UfawxSeUoKmN9gFNjSANQAaYTppjIauNzSWbkVvN5d6BQiXh1mWZn3TN+BUKnTu1uI="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
