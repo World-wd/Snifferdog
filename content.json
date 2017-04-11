@@ -17,12 +17,12 @@
    "size": 838
   },
   "css/all.css": {
-   "sha512": "4faa7364576c89ad2b4bd8592267dee972a7daceb35814e218deda2e063a034e",
-   "size": 43193
+   "sha512": "1b8ce184396e1cc3588aa5f10c22b331815fda5774167bc83a1c6442a7975cd9",
+   "size": 43189
   },
   "data.txt": {
-   "sha512": "130da6aaf6a75f9793d883e4ae3097d3de815c3c5e06242b248b8f0105f01039",
-   "size": 108908
+   "sha512": "7b17c18da921d1e379ca97068c5e63844ee3066a5b5d669a51f450140201263f",
+   "size": 109032
   },
   "favicon.ico": {
    "sha512": "5c94787cb307515ba48ca317167fa7ebe9064eed109447a476ec8fb5d2022244",
@@ -32,21 +32,9 @@
    "sha512": "c94efbe1cab1abc0f3742aa5a7b5156b5f4e2121930ed8435713a44a5bbec2d3",
    "size": 1679
   },
-  "img/logos/birthday.png": {
-   "sha512": "b8c8ee9423607ba004fb979a84f6c19e3f7f9a39aca169cba50792e89bb4846a",
-   "size": 388114
-  },
-  "img/logos/default.png": {
-   "sha512": "7121886a37922420737936374763dfea5c7378c7706fffd7ddb63a6263a58ec9",
-   "size": 307360
-  },
-  "img/logos/headerlogo.png": {
-   "sha512": "690bc9d3148f55eef31a02f605fcebb87e8bf4ffa6e0f788f737cdcb4f26630c",
-   "size": 78969
-  },
   "index.html": {
-   "sha512": "c494d33fad4e3df2596c51f2ff84741f8d8cebf99b6f156c6844afcb8fb6a9e0",
-   "size": 12944
+   "sha512": "824c5abbfb2f10f6eea9823d6185cee876d3fa96f413a06c719188de2763ea13",
+   "size": 14219
   },
   "install/index.html": {
    "sha512": "31a95a2b0c359b9152be6ab183998b369e5848d79cd89bf3b37958d0978ed84b",
@@ -65,8 +53,8 @@
    "size": 906
   },
   "newsites.txt": {
-   "sha512": "6d95c0be4640604d3ab6ef45c934786e1d6cfefe88c4505edeecbe77e00b1701",
-   "size": 56727
+   "sha512": "e299d3a2887303b9ddb8cad47cbebeda6b58854d5fd98c71a58a3f41b88ede56",
+   "size": 56632
   },
   "newsitesdb.py": {
    "sha512": "667c90bf56e6b3aeb9fd0a004a0f19087d588ff4534a5e802d1cfcae6fa3c2f5",
@@ -97,18 +85,45 @@
    "size": 620
   }
  },
+ "files_optional": {
+  "doodles/birthday.png": {
+   "sha512": "b8c8ee9423607ba004fb979a84f6c19e3f7f9a39aca169cba50792e89bb4846a",
+   "size": 388114
+  },
+  "doodles/date/04-11-2017/default.png": {
+   "sha512": "24f34c6b0c10daa41a342524a8016e7d702e0c3c4695e53ce5ae771ec45aaa68",
+   "size": 1139847
+  },
+  "doodles/date/04-11-2017/headerlogo.png": {
+   "sha512": "69855a3a7731b928a2f624b2beac61ebbdd7df4e836cea6910f5f5473b3419fc",
+   "size": 796323
+  },
+  "doodles/date/04-11-2017/script.js": {
+   "sha512": "bf08eec537dbb908c6a6176896cc96c36e975456e66622407d8e953f849be3c3",
+   "size": 190
+  },
+  "doodles/default.png": {
+   "sha512": "7121886a37922420737936374763dfea5c7378c7706fffd7ddb63a6263a58ec9",
+   "size": 307360
+  },
+  "doodles/headerlogo.png": {
+   "sha512": "690bc9d3148f55eef31a02f605fcebb87e8bf4ffa6e0f788f737cdcb4f26630c",
+   "size": 78969
+  }
+ },
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491872081,
+ "modified": 1491942719,
+ "optional": "(doodles/.*)",
  "postmessage_nonce_security": true,
  "sign": [
-  76024817242755384000736303082110549185595762853435523261195549656201347190755,
-  61842790150776104771988644342275437350629471323858623031912769919748072596710
+  76888685712661774497189104919495174600353031323848533861277426994235068881637,
+  10727255413115586695519735960371949606949656531459473215036389682785684336284
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "HLVuMcteYUjmeaONq3gnOz160deLy38nVxVlaSOgcOuPLsb//2jF9BuUx//tQrfpcDCWXlouv2niMTlt3EC5ons="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G7GLYsWUJla3+OgeiPukUhy3ztSxbwhZyi9/AVrZTIKKc3lMrCKKiXL7eeUIvq76HVamm2dAAH48CWf8jrwpbm4="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
