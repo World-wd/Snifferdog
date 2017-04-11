@@ -1184,3 +1184,9 @@ ZeroMe[social, networks, merger, merged, hubs, twitter, networking, talk, discus
 The Shadow Brokers[theshadowbrokers.bit, theshadowbrokers, exploits, hacks, bitcoin, shop, sales, market, purchase, warez, buy:18ZVKrU9u9HvuUjMmBWTu6cidUaUPZ63QX 104
 KopyKate.bit[video, youtube, watch, stream, webtorrent, torrents, tv, kopy, kate:1aCq7GiJfUfGZ4GftjYaYbsEngPFzcxvN 198
 Retrogames.bit - ZeroNet[games, arcade, javascript, emulators, play, fun, entertainment, roms, nes, 1943, battletoads, contra, doubledragon, mario, excitebike, megaman, narc, ninjagaiden, punchout, snake, talespin, tetris:1RETRoPXWgnP5K5v7ggwBHTo7eyumPvq1 164
+ZeroTV[tv, torrent, serie, episode, show, pirate, download, magnet, link:1BEJbnufyav7TK23ADTs2Qi2UJeKSGDzw6 79
+Privacy Tools[privacy, encryption, security:1J625kWnshbcBk9gE9BdPr4peTeXusRzU8 87
+Markdown Writing[markdown, writing, syntax, tags, codes:1HVyp5DZYLTCH8YYVxPkRvEuC1p2Sqr3rU 78
+Dark ZeroMe[social, networks, merger, merged, hubs, twitter, networking, talk, discussion, clone, fork:1HmJ7GadjdiQUPevaK7QXVrK4nhyCp1fSj 69
+ZeroMePlus[social, networks, merger, merged, hubs, twitter, networking, talk, discussion, clone, fork:1Lj1oPcN7oZQL8HkS5KbkzQuKqs42zQWY6 143
+ZeroMe Beta[social, networks, merger, merged, hubs, twitter, networking, talk, discussion, clone, fork:19ndUQE2x3NbhGhGZsstuWz2sy9f7uVT6G 90
