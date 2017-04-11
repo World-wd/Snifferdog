@@ -1,4 +1,2 @@
-function doodle() {
-document.getElementsByTagName("body").innerHTML+= "<style>#mainlogo{background-image:url(default.png)}.logo{background-image:url(headerlogo.png);background-size:233px;background-position:-15px -2px}</style>";
-document.getElementsByClassName('logo')[0].setAttribute("title", "yolo")
-}
+$("#mainlogo")[0].style="background-image:url("+_("default.png")+")"
+$("#logo")[0].style="background-image:url("+_("headerlogo.png")+");background-size:233px;background-position:-15px -2px"
