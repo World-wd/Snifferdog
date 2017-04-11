@@ -9,8 +9,8 @@
  "favicon": "favicon.ico",
  "files": {
   "autotag.py": {
-   "sha512": "7a4f87fd51e45031548bc6b060519ab8f93eb88e4df78be473a9edebde5dfcd9",
-   "size": 11574
+   "sha512": "1679977a04ff9fcf4e9b1fcbd1dcf11c1ec70e61643929fefe1786f1a5108e07",
+   "size": 11605
   },
   "check.py": {
    "sha512": "db7d66aff3c6b9a3fa6fde7b8561228b3433f6a96df6537358f0edbc16008f2e",
@@ -21,8 +21,8 @@
    "size": 43193
   },
   "data.txt": {
-   "sha512": "72d3c80f4edf7a536c2da5ea16303df71ae70cc0f0a2f2adf37bb7a5420a7d17",
-   "size": 107811
+   "sha512": "130da6aaf6a75f9793d883e4ae3097d3de815c3c5e06242b248b8f0105f01039",
+   "size": 108908
   },
   "favicon.ico": {
    "sha512": "5c94787cb307515ba48ca317167fa7ebe9064eed109447a476ec8fb5d2022244",
@@ -45,12 +45,12 @@
    "size": 78969
   },
   "index.html": {
-   "sha512": "73f616e089fdf9a1c81c895bd3d8f944dd1919c71c50be504580d5ea9d7b6dc4",
-   "size": 12319
+   "sha512": "c494d33fad4e3df2596c51f2ff84741f8d8cebf99b6f156c6844afcb8fb6a9e0",
+   "size": 12944
   },
-  "install.html": {
-   "sha512": "2768577c7e3aa63142034c8b469a75ecb8f492dcab367738b8b4a2eeb04a78c6",
-   "size": 1356
+  "install/index.html": {
+   "sha512": "31a95a2b0c359b9152be6ab183998b369e5848d79cd89bf3b37958d0978ed84b",
+   "size": 1373
   },
   "jquery-3.1.0.min.js": {
    "sha512": "ab3ad9a98fe431508461ebbf8029bc536f34d16cfef8b4c62b8a62b56fe2b30a",
@@ -65,28 +65,32 @@
    "size": 906
   },
   "newsites.txt": {
-   "sha512": "a6db29133a8ba4348f1bd58bed8cd6edf7ffaba1c87010b7431fac575fab77e3",
-   "size": 57106
+   "sha512": "6d95c0be4640604d3ab6ef45c934786e1d6cfefe88c4505edeecbe77e00b1701",
+   "size": 56727
   },
   "newsitesdb.py": {
    "sha512": "667c90bf56e6b3aeb9fd0a004a0f19087d588ff4534a5e802d1cfcae6fa3c2f5",
    "size": 1550
   },
   "opensearch.xml": {
-   "sha512": "2e0069e762a84916c51ca90749aadd1762f7c98048fda9300e13d6e4476f1cea",
-   "size": 439
+   "sha512": "b5eb194010373a0c2712fbfc861c55d0a049db10198402224d205babdd4a92db",
+   "size": 443
   },
-  "python.html": {
-   "sha512": "cda58ee466b923c0cb109259f849ed07a61b72c805f9596178ffea669468fb26",
-   "size": 3765
+  "peerlist.txt": {
+   "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce",
+   "size": 0
   },
-  "settings.html": {
-   "sha512": "d2bc829ae93e833b6bee417c3e7a7d24c414c6d924985c0ade0ccfaaf1ecff27",
-   "size": 530
+  "python/index.html": {
+   "sha512": "4cfaa2bd17a35c720885add0c7c5b6fb7675761026a7010a10d2dd0c17a72d01",
+   "size": 3782
   },
-  "terms.html": {
-   "sha512": "2b0da2e4d11f4dae3e5ca0da7dc854ec410e9028b93c0b3b7787dd26cf1e95f0",
-   "size": 827
+  "settings/index.html": {
+   "sha512": "f3e709f5d595ca27f9a98b3e9496933b6b39199fb57c973f59e5038588957d99",
+   "size": 547
+  },
+  "terms/index.html": {
+   "sha512": "d5bd006279b8ba734b34c4af5afbdc66cdff36c108769767fdd60c319feb95dd",
+   "size": 844
   },
   "zeromehubs.txt": {
    "sha512": "e7d8de15f01fb7d504083f8d11308c8c981a364ebb4d1dd62eb782a8b67ab27b",
@@ -96,15 +100,15 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491821210,
+ "modified": 1491872081,
  "postmessage_nonce_security": true,
  "sign": [
-  10190620913620231055750829891776289525652254591202223199816699431526293026219,
-  15407521043581453650447714610267395648854680213363140592461315023185413534672
+  76024817242755384000736303082110549185595762853435523261195549656201347190755,
+  61842790150776104771988644342275437350629471323858623031912769919748072596710
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G9YUZjZh8APNb/arjUErQk9YfYQ5+NQdF43Y/LItYFyzVYQEjBYyP94fAvXp9yVUqXOlyCcR6Vy8uPa4Z8i7np8="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "HLVuMcteYUjmeaONq3gnOz160deLy38nVxVlaSOgcOuPLsb//2jF9BuUx//tQrfpcDCWXlouv2niMTlt3EC5ons="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",

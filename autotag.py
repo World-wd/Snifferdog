@@ -35,7 +35,7 @@ for line in data:
 	sites.append(tsplit[0])
 
 #Point to your phantomjs installation
-PHANTOMJS_PATH = "phantomjs"
+PHANTOMJS_PATH = "C:/Programs/PhantomJS/bin/executable.exe"
 
 
 # response = urllib.urlopen(url)
