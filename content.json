@@ -9,8 +9,8 @@
  "favicon": "favicon.ico",
  "files": {
   ".git/COMMIT_EDITMSG": {
-   "sha512": "027a5762938d1a54aa53e19fc6068a25d89ef7717f4a895c2ff6c45f5ecb3dbb",
-   "size": 17
+   "sha512": "10688d70daac35da1461a680bafd7ea589f4d330d4db2652a3dc0201198e7bf4",
+   "size": 8
   },
   ".git/FETCH_HEAD": {
    "sha512": "db7dd281d39a026d6e63f3fa8a256290bf9f2b8adc45aa7cf5ac8e7e080925b9",
@@ -69,7 +69,7 @@
    "size": 3610
   },
   ".git/index": {
-   "sha512": "1cdf55af944384b4bcf8c7a5e1133cc109ad5a5d160d5c76bfd47bbfafab6e0a",
+   "sha512": "8ef2df72dd7b0e4fc0c6eec50395f63d0279835dc76a1a7c183a24961977d264",
    "size": 2548
   },
   ".git/info/exclude": {
@@ -77,20 +77,20 @@
    "size": 240
   },
   ".git/logs/HEAD": {
-   "sha512": "1a09e5a0fbbb976d252640b6ee8bb8f9f27dde2eda8f403336a508c62f5c311b",
-   "size": 961
+   "sha512": "f799a8977246c0b823e727ee14b3341065783cfa4bbbab672a99682cff05d9a6",
+   "size": 1108
   },
   ".git/logs/refs/heads/master": {
-   "sha512": "1a09e5a0fbbb976d252640b6ee8bb8f9f27dde2eda8f403336a508c62f5c311b",
-   "size": 961
+   "sha512": "f799a8977246c0b823e727ee14b3341065783cfa4bbbab672a99682cff05d9a6",
+   "size": 1108
   },
   ".git/logs/refs/remotes/origin/HEAD": {
    "sha512": "500a36ba3b5a8d99f7bbcb40f398cb53391f3a6fabc76ce1066edd3a7fbca17b",
    "size": 190
   },
   ".git/logs/refs/remotes/origin/master": {
-   "sha512": "5c0e45f31c5682f678c4dcbcdf0f1d6527e6e2c47050ffc9b8a22e219e375820",
-   "size": 730
+   "sha512": "d48544adc5f14dce2c5efe7af980e5cceb41f56da60c4c009d8cd633a7fa73d9",
+   "size": 876
   },
   ".git/objects/07/ecaa3daa895d5b5a4084ccce9e39e7ddb083cd": {
    "sha512": "94fddf223b0403c01950a5717cc71c2556ab528c32ea1d07f2331a5edb4447c1",
@@ -120,6 +120,10 @@
    "sha512": "6086ad944c276da93e7b081550b0ce457ee2926acd1bc0c3f49c513f5f8d8067",
    "size": 5285
   },
+  ".git/objects/6f/ce9d64261514ca28eefd3136bbe33300e84388": {
+   "sha512": "ff1c59e0725958656e0cf51636a29da7ba4b23c5aa11e647d9dd588b692fc020",
+   "size": 63777
+  },
   ".git/objects/8d/e5f3f9f5580104f900f257e60ff256dd6d9524": {
    "sha512": "ab4a52d759295eb0961ee8e7c1c317de37d27bf4337ef8e103c2221fbeced14b",
    "size": 735
@@ -148,6 +152,10 @@
    "sha512": "3749d1d8152b2bebfa559ad2a2cf90656f5881cd35a11d409ee424a7d9244f1e",
    "size": 63637
   },
+  ".git/objects/bd/c10a9f125b5536490eb08ba547a08a10b27262": {
+   "sha512": "47aa558ae884d8b3c41fef647db5f9f2c9fb289887a80c1b5fc5df361ab0f482",
+   "size": 156
+  },
   ".git/objects/be/962794be5dae5e94c0485c2e9af31691749a54": {
    "sha512": "fca78acdeda814649463c566eba1a3760ac0c97e4f236e6c7fd2d93ff567c799",
    "size": 4954
@@ -155,6 +163,14 @@
   ".git/objects/bf/4fd1ec5c1c3b1c84a40a0d5a9bb33da1d2f133": {
    "sha512": "3278282b2427ae1ec893eca5e6a1f4f967d18238623fdfa0ac9018eeca51ae43",
    "size": 155
+  },
+  ".git/objects/c3/536e09366efcb657fda4a375617451eadb04e6": {
+   "sha512": "8a65bf8347234a90d8755145c50ea29ce6fe3327caa5af274c0ec8b6048d4b54",
+   "size": 5264
+  },
+  ".git/objects/c7/7177ad95bfa8dccbfba811607041e36968b1b6": {
+   "sha512": "88bb543207817cb12e39433e4934f254efec6c96f06d9c9bcc3fd6f9251dfd92",
+   "size": 734
   },
   ".git/objects/e6/583316fa2c331fa90b4f01d1d97360d68182e1": {
    "sha512": "3c87fbb507e8dfc8a07fe7f1b57d3e9d196b897117c590096e283a0acf417e49",
@@ -185,7 +201,7 @@
    "size": 107
   },
   ".git/refs/heads/master": {
-   "sha512": "34cdec6eb7fa783815b5806ddff7b9a6502fe6b88b21d476d80e0fc0c78897c2",
+   "sha512": "8f2fb7aac2db9bd54b3292c216030f5a7ce15ed9c1671ac98df0f9b5853f3060",
    "size": 41
   },
   ".git/refs/remotes/origin/HEAD": {
@@ -193,7 +209,7 @@
    "size": 32
   },
   ".git/refs/remotes/origin/master": {
-   "sha512": "34cdec6eb7fa783815b5806ddff7b9a6502fe6b88b21d476d80e0fc0c78897c2",
+   "sha512": "8f2fb7aac2db9bd54b3292c216030f5a7ce15ed9c1671ac98df0f9b5853f3060",
    "size": 41
   },
   "README.md": {
@@ -213,8 +229,8 @@
    "size": 43367
   },
   "data.txt": {
-   "sha512": "6bf940aad0f5781be9e51f078e474b9a111ade5572915d26c513e329606f93fa",
-   "size": 109500
+   "sha512": "7473035b1b7f5c05f05bc0f3ec8bb12974735aa63e2629bb8c3e8333981e6467",
+   "size": 109518
   },
   "favicon.ico": {
    "sha512": "5c94787cb307515ba48ca317167fa7ebe9064eed109447a476ec8fb5d2022244",
@@ -306,16 +322,16 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1492002757,
+ "modified": 1492003086,
  "optional": "(doodles/.*)",
  "postmessage_nonce_security": true,
  "sign": [
-  113695275387703303201049209612132100384872111809016314488894926259585592757192,
-  12212188287932099601571531908279987327797005698624206111845996306234196381069
+  35594431827427409959324618782831799666901154212454687511503663250737750403671,
+  33946892224008175936107550232689189956751418618285112259600406820026713092010
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G+XV6AuRqO7We1yccRXOk/fUZXxrs6xieyx3gaVupgijOQUMLAi01JmT48S6yTKiHhv8TCREqZr+WCUB/U9XcDw="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "HA75/tLLvog7HyTWuu2wtt+AF++7rN+kKnHeT+jFR/hRdYRJK/eRNzTCPDLNPP9RaUPYYt9hg1yZ+cOOmdOZFxU="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
