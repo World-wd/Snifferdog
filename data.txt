@@ -1198,3 +1198,4 @@ Privacytools-es - Cifrado contra la vigilancia masiva[privacy, encryption, secur
 0
 Snifferdog - This dog can find all![search, kaffie, kaffiene, plasmmer, sniffer, dog, find, zeronet, search engine, engine:19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc 84
 Motherfucking Website[satire, humor, parody, web, development, css, javascript, html:1PKgY6gJU914bDHZwsgdkVwra1b1rVUGic 76
+Kidsearch - Explore the new Internet[search, kaffie, kaffiene, plasmmer, kids, kidsearch, find, zeronet, search engine, engine, zero, zerosearch:1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo 70
