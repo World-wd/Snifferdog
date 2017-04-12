@@ -8,6 +8,134 @@
  "domain": "snifferdog.bit",
  "favicon": "favicon.ico",
  "files": {
+  ".git/COMMIT_EDITMSG": {
+   "sha512": "ce570401486b5e62c1c9757920778189d913615ba4a8c78d1183d909fb992c89",
+   "size": 8
+  },
+  ".git/FETCH_HEAD": {
+   "sha512": "4d2c63d679ef140d6c109064a24ac5350de27661e03d63139ad0d2e7f0bc07df",
+   "size": 104
+  },
+  ".git/HEAD": {
+   "sha512": "76b199f1bffdc6d21547895431b0f85f3857df400225cbd1ae55e7ded09786a8",
+   "size": 23
+  },
+  ".git/config": {
+   "sha512": "8e50c3a4c3020baaf941c911501606b5ca72dfa982d338a2773f8cd9b7d74c61",
+   "size": 309
+  },
+  ".git/description": {
+   "sha512": "f7e152f75b124c3e1c5d12f00427729d9eec4e2c1bf70d7606440a6600d00336",
+   "size": 73
+  },
+  ".git/hooks/applypatch-msg.sample": {
+   "sha512": "536cce804d84e25813993efdd240537b52d00ce9cdcecf1982f85096d56a5212",
+   "size": 478
+  },
+  ".git/hooks/commit-msg.sample": {
+   "sha512": "d6bb7fa747f4625adf1877f546565cbe812ca7dd4168f7e9068e6732555d8737",
+   "size": 896
+  },
+  ".git/hooks/post-update.sample": {
+   "sha512": "473ad124642571656276bf83b9ff63ab1804d3c23a5bdae52391c6f70a894849",
+   "size": 189
+  },
+  ".git/hooks/pre-applypatch.sample": {
+   "sha512": "cb78aa7e9b9c146e5db65d86dd83f04e2b6942a06fab50c704a0fd900683f3b6",
+   "size": 424
+  },
+  ".git/hooks/pre-commit.sample": {
+   "sha512": "4a7ac2ed2ffe50d2a997c3477b5855c3d19423c295a82f7d660be3418217a183",
+   "size": 1642
+  },
+  ".git/hooks/pre-push.sample": {
+   "sha512": "37cd20a090494acb16c2255fe93dadeb409f2553afddc409dad5b5e99c9f5612",
+   "size": 1348
+  },
+  ".git/hooks/pre-rebase.sample": {
+   "sha512": "de9bdf513f383b3215e467c025ca851a0f2661b91811bfd441486b678e4d45e4",
+   "size": 4951
+  },
+  ".git/hooks/pre-receive.sample": {
+   "sha512": "ee08c11fab7e896b2e09c241954ba7640338b12c75cd8040daf053c31b2f2223",
+   "size": 544
+  },
+  ".git/hooks/prepare-commit-msg.sample": {
+   "sha512": "fbf15f12136a413dd590e57392e6122714d67456beed50d9ef285e40076a138a",
+   "size": 1239
+  },
+  ".git/hooks/update.sample": {
+   "sha512": "759abd33e5d1dda9b3e3d3116c47b23f616320d70cd66d567b1c4eeefeb6d785",
+   "size": 3610
+  },
+  ".git/index": {
+   "sha512": "5008434465d240b37d97b41941109e916b32cd5b521482ba245eb71c6e6a2fb3",
+   "size": 2548
+  },
+  ".git/info/exclude": {
+   "sha512": "9828c6ecdf91bf117416e17f4ee9caee2e1e37b6fb00b9ff04035ace17a3089b",
+   "size": 240
+  },
+  ".git/logs/HEAD": {
+   "sha512": "3765744037b5d7660e00805ee6b3d2e2d7e8123277262d532280a1088a8396c3",
+   "size": 337
+  },
+  ".git/logs/refs/heads/master": {
+   "sha512": "3765744037b5d7660e00805ee6b3d2e2d7e8123277262d532280a1088a8396c3",
+   "size": 337
+  },
+  ".git/logs/refs/remotes/origin/HEAD": {
+   "sha512": "500a36ba3b5a8d99f7bbcb40f398cb53391f3a6fabc76ce1066edd3a7fbca17b",
+   "size": 190
+  },
+  ".git/logs/refs/remotes/origin/master": {
+   "sha512": "e3ccd3ab7f4b4c373120ece13d3110799a7dba79f5590cf4e413338a4cb7dff6",
+   "size": 146
+  },
+  ".git/objects/3f/a7bb61ffd4a09a83929c067da9a273ffb6405b": {
+   "sha512": "f2a5353ea39dcead904c28ca30e6681f428b22d375b5f00ba9ea096ce7487998",
+   "size": 734
+  },
+  ".git/objects/bf/4fd1ec5c1c3b1c84a40a0d5a9bb33da1d2f133": {
+   "sha512": "3278282b2427ae1ec893eca5e6a1f4f967d18238623fdfa0ac9018eeca51ae43",
+   "size": 155
+  },
+  ".git/objects/e6/583316fa2c331fa90b4f01d1d97360d68182e1": {
+   "sha512": "3c87fbb507e8dfc8a07fe7f1b57d3e9d196b897117c590096e283a0acf417e49",
+   "size": 2179
+  },
+  ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391": {
+   "sha512": "93cae1a96a06b60f4ecd96daa1f436500ee6c1a4c2e598db3e42ab69f2a2d00d",
+   "size": 15
+  },
+  ".git/objects/pack/pack-96b5c6ad01af5fd30d67fb8d76d58a28df4b6b23.idx": {
+   "sha512": "c6fa38d2caa144e4d5dc75ad595940cedf9e6b02b77e96e2de3b32406ea6ec24",
+   "size": 7456
+  },
+  ".git/objects/pack/pack-96b5c6ad01af5fd30d67fb8d76d58a28df4b6b23.pack": {
+   "sha512": "63a1ff76c908ad391e2927b636fa55da014f48b41040ae0c9325a97d9a576190",
+   "size": 2971315
+  },
+  ".git/packed-refs": {
+   "sha512": "ca5f4f6df239ce4d4f25b3f36ddb2b9dd94cd8dce3ae7698daeb155e487147f8",
+   "size": 107
+  },
+  ".git/refs/heads/master": {
+   "sha512": "433c6df628674b7356e3f3ac81e263dcb1c834abf0aeda0738b123f1481855e4",
+   "size": 41
+  },
+  ".git/refs/remotes/origin/HEAD": {
+   "sha512": "0d686b330d5704fdbb9588d62bbddda273f86b24db52ddbdb73c0c304aabb8e6",
+   "size": 32
+  },
+  ".git/refs/remotes/origin/master": {
+   "sha512": "433c6df628674b7356e3f3ac81e263dcb1c834abf0aeda0738b123f1481855e4",
+   "size": 41
+  },
+  "README.md": {
+   "sha512": "56454da00e83531c6ce413107d2cd5eb6b44d9cedbacecbdd26b718e475f2dd1",
+   "size": 73
+  },
   "autotag.py": {
    "sha512": "1679977a04ff9fcf4e9b1fcbd1dcf11c1ec70e61643929fefe1786f1a5108e07",
    "size": 11605
@@ -33,8 +161,8 @@
    "size": 1679
   },
   "index.html": {
-   "sha512": "824c5abbfb2f10f6eea9823d6185cee876d3fa96f413a06c719188de2763ea13",
-   "size": 14219
+   "sha512": "4a22d9e93da47912fb45b40666f103a1999a21a9c51877f590a413f37139e5d5",
+   "size": 14490
   },
   "install/index.html": {
    "sha512": "31a95a2b0c359b9152be6ab183998b369e5848d79cd89bf3b37958d0978ed84b",
@@ -114,16 +242,16 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491944060,
+ "modified": 1492001042,
  "optional": "(doodles/.*)",
  "postmessage_nonce_security": true,
  "sign": [
-  64781078416608395547421728189626042904231007438859014718601392063108564461690,
-  114120229246504906693238735281243962739177115553903445161483463864760761805771
+  110614394590903621419208996684927103541406709204632391049328486542196144966993,
+  8392492438821086148433998473991860051609255533168112366489547151521999014016
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "GxAynj8AFuu/wgSxZz6c3NcqUnx7abCJ2xyAhu5mMaBtZHeN2UJNBqOZKnBP6T3bKzseviRkcUhZVgXHCv0sqwc="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G6bTtYMVwnSw27u6k3jul0NaQnEH3xbQ5M1i5/HUseysIDtfRwcM3h+6D2bICDmR1GvefPGJHdmE5oqlh/vqrJY="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
