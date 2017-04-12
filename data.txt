@@ -1196,7 +1196,7 @@ Eibriel[technical, director, python, scripting, vfx, widu, blender, imdb:1Cadw74
 
 Privacytools-es - Cifrado contra la vigilancia masiva[privacy, encryption, security:1Npv7cLAvU9u62ivgqhwwK5wHioM3wakgk 48
 0
-Snifferdog - This dog can find all![search, kaffie, kaffiene, plasmmer, sniffer, dog, find, zeronet, search engine, engine, zero, zerosearch:19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc 90
+Snifferdog - This dog can find all![search, kaffie, kaffiene, plasmmer, sniffer, dog, find, zeronet, search engine, engine, zero, zerosearch:19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc 100
 Motherfucking Website[satire, humor, parody, web, development, css, javascript, html, plasmmer:1PKgY6gJU914bDHZwsgdkVwra1b1rVUGic 76
 Kidsearch - Explore the new Internet[search, kaffie, kaffiene, plasmmer, kids, kidsearch, find, zeronet, search engine, engine, zero, zerosearch:1KKcodDy7oamxaBFKeJmyraq9KLCCdi4zo 70
 Universal Smart Video Format[video, format, 7zip, png, svg, flac, ogg, 7z, 7z-archives, usv, plasmmer:1HDMywbRZkin9HhmheaDFHCzaZhCfLhZLH 65
@@ -1204,4 +1204,5 @@ USV Blog[usv, blog, plasmmer:1897DaUqJVQbLkJxXusL1L4BKMM96RPskb 18
 Forum - USV Format[usv, forum, plasmmer:1KoEXkyVT5bm9dnCGoJsb4G32EWGyM1Xhm 6
 Plasmmer | ZeroMe[zerome, profile, plasmmer:me.zeronetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/15XeFY67fYKCKxQPfeo246ELto2Gff1hAe/plasmmer@zeroid.bit 296
 Universal Smart Video | ZeroMe[zerome, profile, usv, plasmmer:me.zeronetwork.bit/?Profile/12h51ug6CcntU2aiBjhP8Ns2e5VypbWWtv/1LthwGGue7HvT6VyiHabgs4MSA1nwbQ98x/usv@zeroid.bit 202
-ThunderWave[beautiful, chat, thunder, wave, thunderwave:1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky 52
+ThunderWave[beautiful, social, chat, thunder, wave, thunderwave:1CWkZv7fQAKxTVjZVrLZ8VHcrN6YGGcdky 55
+Sirenyc | ZeroMe[zerome, profile, sirenyc:Me.ZeroNetwork.bit/?Profile/1RedkCkVaXuVXrqCMpoXQS29bwaqsuFdL/19sggoAZ4hcorrrfWoFWP9rwfpVsL29cnZ/sirenyc@zeroid.bit 298
