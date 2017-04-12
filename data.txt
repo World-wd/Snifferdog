@@ -1202,3 +1202,4 @@ Kidsearch - Explore the new Internet[search, kaffie, kaffiene, plasmmer, kids, k
 Universal Smart Video Format[video, format, 7zip, png, svg, flac, ogg, 7z, 7z-archives, usv, plasmmer:1HDMywbRZkin9HhmheaDFHCzaZhCfLhZLH 65
 USV Blog[usv, blog, plasmmer:1897DaUqJVQbLkJxXusL1L4BKMM96RPskb 18
 Forum - USV Format[usv, forum, plasmmer:1KoEXkyVT5bm9dnCGoJsb4G32EWGyM1Xhm 6
+Plasmmer | ZeroMe[zerome, profile, plasmmer:me.zeronetwork.bit/?Profile/1oranGeS2xsKZ4jVsu9SVttzgkYXu4k9v/15XeFY67fYKCKxQPfeo246ELto2Gff1hAe/plasmmer@zeroid.bit 296
