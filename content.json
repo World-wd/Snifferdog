@@ -17,8 +17,8 @@
    "size": 838
   },
   "css/all.css": {
-   "sha512": "1b8ce184396e1cc3588aa5f10c22b331815fda5774167bc83a1c6442a7975cd9",
-   "size": 43189
+   "sha512": "e1952b82d1ffce1fcc371b4dacf1c1bc4d266cf83866e7e5518979c41cbffa28",
+   "size": 43367
   },
   "data.txt": {
    "sha512": "7b17c18da921d1e379ca97068c5e63844ee3066a5b5d669a51f450140201263f",
@@ -114,16 +114,16 @@
  "ignore": "((js|css)/(?!all.(js|css))|data/.*db|data/users/.*/.*)",
  "includes": {},
  "inner_path": "content.json",
- "modified": 1491942719,
+ "modified": 1491944060,
  "optional": "(doodles/.*)",
  "postmessage_nonce_security": true,
  "sign": [
-  76888685712661774497189104919495174600353031323848533861277426994235068881637,
-  10727255413115586695519735960371949606949656531459473215036389682785684336284
+  64781078416608395547421728189626042904231007438859014718601392063108564461690,
+  114120229246504906693238735281243962739177115553903445161483463864760761805771
  ],
  "signers_sign": "G5SkoJ3qN8KswOxjnTsUisUzwumG5Sf6jB3R7eff//U5cGZopy7GnNyxxONc/KqYhXMQkAbfrq1AQaCOAfNztww=",
  "signs": {
-  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "G7GLYsWUJla3+OgeiPukUhy3ztSxbwhZyi9/AVrZTIKKc3lMrCKKiXL7eeUIvq76HVamm2dAAH48CWf8jrwpbm4="
+  "19X5gH4DnWFGhjYCxHzun9BYmCJvBsHjgc": "GxAynj8AFuu/wgSxZz6c3NcqUnx7abCJ2xyAhu5mMaBtZHeN2UJNBqOZKnBP6T3bKzseviRkcUhZVgXHCv0sqwc="
  },
  "signs_required": 1,
  "title": "Snifferdog - This dog can find all!",
